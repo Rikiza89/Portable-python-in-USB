@@ -27,7 +27,6 @@ A complete guide to create a portable Python environment on a USB drive that can
 3. **Windows embeddable package (64-bit)**をダウンロード: `python-3.11.9-embed-amd64.zip`
 
 ![ダウンロードページ](images/01_download_page.png)
-*組み込みパッケージがハイライトされたPythonダウンロードページのスクリーンショット*
 
 ## ステップ2：PythonをUSBに展開
 
@@ -46,7 +45,6 @@ E:\PortablePython\
 ```
 
 ![展開されたファイル](images/02_extracted_files.png)
-*PortablePythonフォルダー内の展開されたPythonファイルを示すスクリーンショット*
 
 ## ステップ3：.pthファイルの変更
 
@@ -77,10 +75,8 @@ import site
 5. ファイルを保存
 
 ![PTHファイル変更前](images/03_pth_before.png)
-*元のpython311._pthファイルの内容を示すスクリーンショット*
 
 ![PTHファイル変更後](images/04_pth_after.png)
-*'import site'のコメントを外した変更後のpython311._pthファイルを示すスクリーンショット*
 
 ## ステップ4：pipのインストール
 
@@ -240,7 +236,7 @@ This guide will help you set up Python 3.11.9 (64-bit) on a USB drive, making it
 3. Download **Windows embeddable package (64-bit)**: `python-3.11.9-embed-amd64.zip`
 
 ![Download Page](images/01_download_page.png)
-*Screenshot showing the Python download page with the embeddable package highlighted*
+
 
 ## Step 2: Extract Python to USB
 
@@ -259,7 +255,6 @@ E:\PortablePython\
 ```
 
 ![Extracted Files](images/02_extracted_files.png)
-*Screenshot showing the extracted Python files in the PortablePython folder*
 
 ## Step 3: Modify the .pth File
 
@@ -290,10 +285,8 @@ import site
 5. Save the file
 
 ![PTH File Before](images/03_pth_before.png)
-*Screenshot showing the original python311._pth file content*
 
 ![PTH File After](images/04_pth_after.png)
-*Screenshot showing the modified python311._pth file with uncommented 'import site'*
 
 ## Step 4: Install pip
 
