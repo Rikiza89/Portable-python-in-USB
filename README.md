@@ -308,17 +308,14 @@ python.exe get-pip.py --no-warn-script-location
 python.exe -m pip --version
 ```
 <details>
-<summary>Click to show a hidden code example</summary>
+<summary>Worki in progress</summary>
 
-function helloWorld() {
-  console.log("Hello, GitHub!");
-}
-</details>
 ![Pip Installation](images/05_pip_install.png)
 *Screenshot showing the pip installation process in Command Prompt*
 
 ![Pip Version](images/06_pip_version.png)
 *Screenshot showing successful pip version check*
+</details>
 
 ## Step 5: Install Additional Libraries
 
@@ -337,8 +334,11 @@ python.exe -m pip install numpy pandas matplotlib --no-warn-script-location
 python.exe -m pip install -r requirements.txt --no-warn-script-location
 ```
 
+<details>
+<summary>Worki in progress</summary>
 ![Install Packages](images/07_install_packages.png)
 *Screenshot showing package installation with pip*
+</details>
 
 ## Step 6: Running Python Scripts
 
@@ -361,12 +361,14 @@ REM Run your Python script
 REM Pause to see output (optional)
 pause
 ```
-
+<details>
+<summary>Worki in progress</summary>
 ![Batch File](images/08_batch_file.png)
 *Screenshot showing the batch file content in a text editor*
 
 ![Running Batch](images/09_running_batch.png)
 *Screenshot showing the batch file execution in Command Prompt*
+</details>
 
 ### Method 2: Using Bash Script (.sh) for Git Bash or WSL
 
@@ -392,12 +394,14 @@ Make it executable (in Git Bash):
 ```bash
 chmod +x run_script.sh
 ```
-
+<details>
+<summary>Worki in progress</summary>
 ![Bash File](images/10_bash_file.png)
 *Screenshot showing the bash script content in a text editor*
 
 ![Running Bash](images/11_running_bash.png)
 *Screenshot showing the bash script execution in Git Bash*
+</details>
 
 ### Method 3: Direct Execution
 
@@ -423,9 +427,11 @@ E:\
 ├── run_script.bat
 └── run_script.sh
 ```
-
+<details>
+<summary>Worki in progress</summary>
 ![Project Structure](images/12_project_structure.png)
 *Screenshot showing the complete folder structure in Windows Explorer*
+</details>
 
 ## Troubleshooting
 
