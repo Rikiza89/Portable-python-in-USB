@@ -308,7 +308,7 @@ python.exe get-pip.py --no-warn-script-location
 python.exe -m pip --version
 ```
 <details>
-<summary>Worki in progress</summary>
+<summary>Work in progress</summary>
 
 ![Pip Installation](images/05_pip_install.png)
 *Screenshot showing the pip installation process in Command Prompt*
@@ -335,7 +335,7 @@ python.exe -m pip install -r requirements.txt --no-warn-script-location
 ```
 
 <details>
-<summary>Worki in progress</summary>
+<summary>Work in progress</summary>
 ![Install Packages](images/07_install_packages.png)
 *Screenshot showing package installation with pip*
 </details>
@@ -362,7 +362,7 @@ REM Pause to see output (optional)
 pause
 ```
 <details>
-<summary>Worki in progress</summary>
+<summary>Work in progress</summary>
 ![Batch File](images/08_batch_file.png)
 *Screenshot showing the batch file content in a text editor*
 
@@ -395,7 +395,7 @@ Make it executable (in Git Bash):
 chmod +x run_script.sh
 ```
 <details>
-<summary>Worki in progress</summary>
+<summary>Work in progress</summary>
 ![Bash File](images/10_bash_file.png)
 *Screenshot showing the bash script content in a text editor*
 
@@ -428,7 +428,7 @@ E:\
 └── run_script.sh
 ```
 <details>
-<summary>Worki in progress</summary>
+<summary>Work in progress</summary>
 ![Project Structure](images/12_project_structure.png)
 *Screenshot showing the complete folder structure in Windows Explorer*
 </details>
