@@ -307,7 +307,13 @@ python.exe get-pip.py --no-warn-script-location
 ```cmd
 python.exe -m pip --version
 ```
+<details>
+<summary>Click to show a hidden code example</summary>
 
+function helloWorld() {
+  console.log("Hello, GitHub!");
+}
+</details>
 ![Pip Installation](images/05_pip_install.png)
 *Screenshot showing the pip installation process in Command Prompt*
 
