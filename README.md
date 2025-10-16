@@ -3,8 +3,8 @@
 A complete guide to create a portable Python environment on a USB drive that can run on any Windows computer without requiring Python installation.
 
 ## Table of Contents
-- [English Version](#english-version)
 - [日本語版](#日本語版)
+- [English Version](#english-version)
 
 ---
 
