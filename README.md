@@ -24,7 +24,7 @@ A complete guide to create a portable Python environment on a USB drive that can
 
 1. Python公式リリースページにアクセス: https://www.python.org/downloads/release/python-3119/
 2. 「Files」セクションまでスクロール
-3. **"Windows embeddable package (64-bit)"**をダウンロード: `python-3.11.9-embed-amd64.zip`
+3. "Windows embeddable package (64-bit)"をダウンロード: `python-3.11.9-embed-amd64.zip`
 
 ![ダウンロードページ](images/01_download_page.png)
 
