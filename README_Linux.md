@@ -1,4 +1,4 @@
-# Portable Python on USB Drive for Linux/Raspberry Pi
+# Portable Python on USB Drive for Linux/Raspberry Pi. (Not fully tested yet)
 
 A complete guide to create a portable Python environment on a USB drive that can run on Linux systems and Raspberry Pi without requiring Python installation.
 
